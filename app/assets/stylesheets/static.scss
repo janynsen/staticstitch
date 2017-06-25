@@ -1,0 +1,50 @@
+body {
+   font-family: sans-serif;
+   font-size: small;
+   font-color: #000;
+   padding-top: 30px;
+   background: url('stitchgreen.jpg') no-repeat center center;
+   background-size: cover;
+}
+
+input { 
+   margin-bottom: 5px;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+p { 
+   line-height: 150%;
+}
+
+
+.block {
+    padding: 10px 20px;
+    width: 50%;
+    border-radius: 1em;
+    margin: 0 auto;
+}
+
+ul.nav li {
+  display: inline;
+}
+ul.nav li a {
+  padding: 10px 15px 10px;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  background: #3abda0;
+  border-radius: 1em;
+}
+
+ul.nav li a:hover {
+  padding: 10px 15px 10px;
+  color: #ccff00;
+  font-weight: bold;
+  text-decoration: none;
+  background: #3abda0;
+  border-radius: 1em;
+}
+
